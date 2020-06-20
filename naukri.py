@@ -93,7 +93,7 @@ import time
 import random
 
 #from scrapers import naukri_selenium
-import definations
+#import definations
 
 class NaukriScraper:
     '''
